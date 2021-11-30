@@ -1,4 +1,8 @@
-### I'm Viacheslav ZAITCEV 👋
+### Welcome to the repositorium
+I'm Viacheslav ZAITCEV
+I have been doing web development since 2020
+
+👋
 
 <!--
 **ViacheslavZAITCEV/ViacheslavZAITCEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
